@@ -18,8 +18,8 @@
   <lib desc="#BFH-Praktika" name="9"/>
   <lib desc="#Input/Output-Extra" name="10"/>
   <lib desc="#Soc" name="11"/>
-  <lib desc="file#UnidadeLogicaAritmetica_CircuitosDigitais\subtrador.circ" name="12"/>
-  <lib desc="file#UnidadeLogicaAritmetica_CircuitosDigitais\operacoes_logicas.circ" name="13"/>
+  <lib desc="file#subtrador.circ" name="12"/>
+  <lib desc="file#operacoes_logicas.circ" name="13"/>
   <main name="testeULA"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
@@ -374,7 +374,7 @@
     <a name="circuit" val="ULA"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="simulationFrequency" val="1.0"/>
-    <comp lib="0" loc="(1250,20)" name="Constant">
+    <comp lib="0" loc="(1240,20)" name="Constant">
       <a name="value" val="0x0"/>
     </comp>
     <comp lib="0" loc="(1430,1990)" name="Splitter">
